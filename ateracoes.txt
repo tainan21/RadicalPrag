@@ -1,0 +1,35 @@
+
+Alterações dentro do esperado
+- Alteração de textos
+- Botão Whatsapp
+- Favicon
+- Adaptação do Logo
+- Identação e Localização do Código
+- Compressão Do Template ( Minificamos para que sua velocidade seja acelerada, basicamente quebramos a aplicação em pequenas partes e tornamos o código minificado para que os navegadores carreguem com maisd facilidade. ) 
+- Configuração do Servidor
+- Configuração do Domínio
+- Configuração da Hospedagem
+- Configuração do SEO da página
+
+Alterações fora do esperado
+O template era de 2010, tendo algumas funcionalidades defasadas. 
+- Reescrever código do Carousel - Slider, e utilização de outro framework 
+{ Aqui é o seguinte, a animação do slider foi desenvolvida utilizando um framework chamado Jquery.Caroussel.Min que entrou em desuso e não tem mais suporte, rodando normalmente em computadores, porém, falhando e causando lentidão em dispositivos móveis, além de não dar suporte para todos navegadores, uma das partes do site que gastei mais tempo}
+- Correção de Responsividade das imagens para trabalharem com qualquer resolução 
+ O site template trabalha com tamanho de imagens especificas, ex: 573X296( Quando tratamos o as imagens por tamanho fixo, elas não se adaptam a outro layout, quebrando a responsividade e obrigando a trabalhar com imagens redimensionadas, que se não criadas do zero, perdem a qualidade. )
+- Correção de animação para funcionar em qualquer dispositivo.
+- Alteração do JavaScript em servidores.
+- Correção de Componentes que não são responsivos.
+
+
+
+Alterações futuras dentro do esperado
+- 
+
+Alterações futuras Fora do esperado
+
+
+- Correção do Header ( Menu ) Adaptando o layout das outras páginas junto com a principal.
+- Correção de erros de JavaScript do template
+- Criar corpo de envio de email 
+( Para utilizar o serviço de envio de email, utilizamos linguagem de programação ( PHP, JS, C+, C# ou outra, no caso do template terá que ser criada do zero e configurada )
