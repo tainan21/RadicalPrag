@@ -664,7 +664,7 @@ ul.social_icon li a:after, ul.links li a, .footer_small .breadcrumb li a{
 a.back-to{
   background: #575757;
   border-radius:50%;
-  bottom: 60px;
+  bottom: 10px;
   display: none;
   height: 40px;
   line-height:40px;
