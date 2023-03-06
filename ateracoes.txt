@@ -6,28 +6,19 @@ Documentos - table:
 Níveis de Usuário:   
 Graficos - Visual
 
-
 http://www.radicalprag.com.br/
-
-
-
-
-
-
-
-
-
-
 - Home
 - Quem Somos
 - Serviços
 - Contato
 - whatsapp flutuante
 - Animação splash (carregamento)
-- Trabalhe Conosco 
+- Trabalhe Conosco
+- Acesso ao Cliente 
 - Mapa(Localização)
-
-
+- Menu - news
+- Sustentabilidade
+- Pragas
 
 Alterações dentro do esperado
 - Botão Whatsapp
@@ -42,7 +33,6 @@ Alterações dentro do esperado
 (- Alteração de textos, alteração de imagens, alterações diretas no código do template, botões, Favicon e etc)
 
 Alterações fora do esperado
-
 O template era de 2010, tendo algumas funcionalidades defasadas. 
 - Reescrever código do Carousel - Slider, e utilização de outro framework 
 { Aqui é o seguinte, a animação do slider foi desenvolvida utilizando um framework chamado Jquery.Caroussel.Min que entrou em desuso e não tem mais suporte, rodando normalmente em computadores, porém, falhando e causando lentidão em dispositivos móveis, além de não dar suporte para todos navegadores, uma das partes do site que gastei mais tempo}
