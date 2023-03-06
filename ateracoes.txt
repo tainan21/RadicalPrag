@@ -41,7 +41,7 @@ O template era de 2010, tendo algumas funcionalidades defasadas.
 - Correção de animação para funcionar em qualquer dispositivo.
 - Alteração do JavaScript em servidores.
 - Correção de Componentes que não são responsivos.
-
+26h
 
 
 Alterações futuras dentro do esperado
@@ -54,3 +54,37 @@ Alterações futuras Fora do esperado
 - Correção de erros de JavaScript do template
 - Criar corpo de envio de email 
 ( Para utilizar o serviço de envio de email, utilizamos linguagem de programação ( PHP, JS, C+, C# ou outra, no caso do template terá que ser criada do zero e configurada )
+- Alteração de imagens!
+- Tratamento de Novas imagens!
+- Correção de menu!
+- Correção de estilização!
+- Tela de Serviço!
+- Tela de Pragas!
+
+
+
+Pragas 
+- 
+
+
+Controle de Insetos e Aracnídeos
+Controle de Insetos Xilófagos ( Cupíns e Brocas )
+Controle de Produtos de Grãos Armazenados
+Controle de Roedores
+Controle Microbiológico
+Apoio ao SAC dos clientes 
+Auditoria em Fornecedores
+Auditorias feitas por técnicos multidisciplinares
+Consultoria em Controle de Pombos
+Direcionamento de Ações para o combate às pragas
+Relatórios analíticos e de não conformidades
+Suporte a auditorias nacionais e internacionais
+Treinamentos e palestras para colaboradores e clientes
+
+
+Armadilha Biológica
+Armadilha Luminosa
+Armadilha para Captura de Mosquito
+Monitoramento Inteligente de Dengue
+Placas de Feromônio
+Placas Olfato-Palativas para Captura de Baratas
